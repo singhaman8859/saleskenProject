@@ -2,7 +2,8 @@
 Students Reporting System  spring boot application
 
 
-![Students_reporting_System](https://user-images.githubusercontent.com/103636217/221101208-be3fbe60-1633-475e-8014-9db4b6f3e529.jpg)
+![2287166](https://user-images.githubusercontent.com/105989482/221112361-f3769c31-1993-479e-ab49-b91f150c5d8e.jpg)
+
 
 ## About
 This student management api build to manage the students records and Reports  in the database which make a hassle free management . 
@@ -25,24 +26,20 @@ This student management api build to manage the students records and Reports  in
 - Maven (used as a dependency management tool.)
 
 ## Backend Design 
-###  ER Diagram
-
-![New Microsoft PowerPoint Presentation](https://user-images.githubusercontent.com/101393689/219923240-84f64dae-020a-4909-a18b-6c5018b66b69.jpg)
-
 
 ###  Tables in database
 
-![tables](https://user-images.githubusercontent.com/101393689/219923017-19a96892-bb36-4ec7-ac92-235b4153897d.png)
+![tables](https://user-images.githubusercontent.com/105989482/221114148-7305a62d-4f7a-46cd-aa17-192be206cbb3.png)
 
 
 -Description of Student table
 
-![student](https://user-images.githubusercontent.com/101393689/219923022-7b0f64d5-3a71-4bdf-82d5-24dc436fc430.png)
+![student](https://user-images.githubusercontent.com/105989482/221114178-eb695cc3-8f33-48d3-8791-cd84f9b47602.png)
 
 
--Description of Marks table
+-Description of Semester table
 
-![marks](https://user-images.githubusercontent.com/101393689/219923024-6f7239eb-be1e-4b0a-bbe6-67517080fdb2.png)
+![semester](https://user-images.githubusercontent.com/105989482/221114208-01764b38-c8b3-471c-8dc5-fe9fda646b64.png)
 
 
 
