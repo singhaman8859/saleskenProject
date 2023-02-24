@@ -40,44 +40,7 @@ public class StudentControllerForJSP {
 		return "homeapp.jsp";
 	}
 	
-//	@RequestMapping(value = "add-marks", method = RequestMethod.POST)
-//	public String editMarks(HttpServletRequest request) {
-//		Integer roll=Integer.parseInt(request.getParameter("rollNumber"));
-//		
-//		Semester semester=new Semester(Integer.parseInt(request.getParameter("id")),Integer.parseInt(request.getParameter("english")), 
-//											Integer.parseInt(request.getParameter("maths")) , Integer.parseInt(request.getParameter("science")));
-//		
-//		sService.setMarks(roll, semester);
-//		
-//		return "home.jsp";
-//	}
-//	
-//	
-//	@RequestMapping("/topstudents")
-//	public ModelAndView topTwoStudents() {
-//		List<Student> list=sService.topTwoStudents();
-//		ModelAndView model=new ModelAndView();
-//		model.addObject("list",list);
-//		model.setViewName("TopStudent.jsp");
-//		
-//		return model;
-//	}
-//	
-//	@RequestMapping(value = "choose-semester", method = RequestMethod.POST)
-//	public ModelAndView averageReport(HttpServletRequest request) {
-//		Integer semester=Integer.parseInt(request.getParameter("semester"));
-//		
-//		MarksReportDTO report=sService.averageReports(semester);
-//		
-//		List<MarksReportDTO>list=new ArrayList<>();
-//		list.add(report);
-//		
-//		ModelAndView model=new ModelAndView();
-//		model.addObject("list",list);
-//		model.setViewName("averageReport.jsp");
-//		
-//		return model;
-//	}
+
 	
 	
 	
